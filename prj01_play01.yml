@@ -1,0 +1,6 @@
+- name: Hello World Sample PRJ01
+  hosts: all
+  tasks:
+    - name: Hello Message
+      debug:
+        msg: "Hello World!!!!! ...is that  ok on  prj01 playbook 01 ??"
