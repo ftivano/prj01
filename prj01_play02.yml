@@ -3,4 +3,4 @@
   tasks:
     - name: Hello Message
       debug:
-        msg: "Hello World!!!!! ...is that  ok on  prj01 playbook two  ??"
+        msg: "Hello World!!!!! ...is that  ok on  prj01 playbook two  2 2 2 ??"
